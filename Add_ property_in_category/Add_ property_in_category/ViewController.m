@@ -27,6 +27,11 @@
     label.text = label.labelName;
     [self.view addSubview:label];
     
+    
+    
+    
+    
+    
 }
 
 
